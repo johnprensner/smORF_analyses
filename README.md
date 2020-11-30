@@ -5,7 +5,7 @@ This repository provides additional details on the data analyses for gene expres
 
 ### Data availability
 
-L1000 data can be found ??. 
+L1000 data can be found at https://clue.io/data under the Orfeome Library Characterization (OFL) sub-heading. 
 
 ### Data processing pipeline 
 
